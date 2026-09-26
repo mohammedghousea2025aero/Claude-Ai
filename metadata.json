@@ -1,0 +1,6 @@
+{
+  "name": "Claude AI - Engineering Product Analysis",
+  "description": "Comprehensive engineering product analysis, interactive system architecture explorer, and high-definition diagram viewer for Claude AI by Anthropic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
